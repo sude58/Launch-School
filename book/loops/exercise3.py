@@ -1,0 +1,8 @@
+my_list = [6, 3, 0, 11, 20, 4, 17]
+index = 0
+while index < len(my_list):
+  print(my_list[index])
+  index += 1
+
+for x in my_list:
+  print(x)
