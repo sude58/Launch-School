@@ -1,0 +1,1 @@
+print('foo' == 'Foo') #Will evaluate to false since f and F is different characters.

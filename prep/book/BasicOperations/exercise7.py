@@ -1,0 +1,1 @@
+int('3.1415') # Will cause error since literal is not int.
