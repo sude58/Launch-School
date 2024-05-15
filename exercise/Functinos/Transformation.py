@@ -1,0 +1,1 @@
+print('Captain Ruby'.replace('Ruby', 'Python')) # replace method replaces substring to another string.
