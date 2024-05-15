@@ -1,1 +1,0 @@
-str.rjust() # rightly justifies string

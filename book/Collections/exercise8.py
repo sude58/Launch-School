@@ -1,1 +1,0 @@
-# print(list(range(3, 17, 4))) # it will make a sequence not lazy and generate every possible value by converting it to list

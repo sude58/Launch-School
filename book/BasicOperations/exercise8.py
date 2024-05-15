@@ -1,1 +1,0 @@
-print('12' < '9') # Will return true since '1' < '9'.

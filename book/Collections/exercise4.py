@@ -1,1 +1,0 @@
-# String have many similarities as sequence like we can index string just like sequence, so we can treat string as sequence most time.

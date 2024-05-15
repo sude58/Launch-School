@@ -1,1 +1,0 @@
-# str.join method expects 1 argument, iterable of strings. Providing more or less argument will result in TypeError.

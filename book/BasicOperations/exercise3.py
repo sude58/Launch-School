@@ -1,1 +1,0 @@
-print('5' + '10') # outputs 510 on terminal

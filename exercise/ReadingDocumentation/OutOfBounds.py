@@ -1,1 +1,0 @@
-['fish', 'and', 'chips'][10] # Raises an IndexError

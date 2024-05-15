@@ -1,1 +1,0 @@
-# you can use in operation to find whether a string contains specific substring like 'ee' in 'eerie'. You can use str.find if you want to know where the substring is occuring.

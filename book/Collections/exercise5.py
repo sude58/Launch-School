@@ -1,1 +1,0 @@
-# Set types are unordered collection and can't be indexed unlike sequencee, which is ordered and can be indexed.
